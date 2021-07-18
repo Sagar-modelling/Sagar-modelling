@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/sagarkandpal2" target="blank"><img src="https://img.shields.io/twitter/follow/sagarkandpal2?logo=twitter&style=for-the-badge" alt="sagarkandpal2" /></a> </p>
 
-- 🔭 I’m currently working on **creating Machine Learning,Deep Learning models for Real World use cases**
+- 🔭 I’m currently working on **creating Machine Learning,Deep Learning models for Real World use cases.**
 
 - 🌱 I’m currently learning **Data Science and allied areas.**
 
