@@ -1,4 +1,4 @@
-[![MasterHead](https://miro.medium.com/max/700/1*7bQvSHX_bX7_cbCeL9OYXQ.jpeg)
+[![MasterHead]](https://miro.medium.com/max/700/1*7bQvSHX_bX7_cbCeL9OYXQ.jpeg)
 
 <h1 align="center">Hi 👋, I'm Sagar Kandpal</h1>
 <h3 align="center">I’m interested in building Machine Learning,Deep Learning models for Real World use cases.</h3>
