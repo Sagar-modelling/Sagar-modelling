@@ -15,6 +15,8 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sagar-modelling](https://github.com/Sagar-modelling)
 
+- 📄 Know about my experiences [https://drive.google.com/file/d/1eLlwop6Nw6washSnMRrtvYdN79KL0G4A/view?usp=sharing](https://drive.google.com/file/d/1eLlwop6Nw6washSnMRrtvYdN79KL0G4A/view?usp=sharing)
+
 - 📫 How to reach me **https://www.linkedin.com/in/sagar-kandpal-4942491a9/?originalSubdomain=in**
 
 <h3 align="left">Connect with me:</h3>
