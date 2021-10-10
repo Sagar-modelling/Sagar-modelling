@@ -13,9 +13,9 @@
 
 - 👯 I’m looking to collaborate on **on Data Science Projects.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Sagar-modelling](https://github.com/Sagar-modelling)
+- 👨‍💻 All of my projects are available [here](https://github.com/Sagar-modelling).
 
-- 📄 Know about my experiences [here](https://drive.google.com/file/d/15vEwNRl-8ztvhgsj4yT6ayf2wxW9LoYu/view?usp=sharing)
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/15vEwNRl-8ztvhgsj4yT6ayf2wxW9LoYu/view?usp=sharing).
 
 - 📫 How to reach me **https://www.linkedin.com/in/sagar-kandpal-4942491a9/?originalSubdomain=in**
 
