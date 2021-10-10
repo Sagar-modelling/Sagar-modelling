@@ -1,6 +1,4 @@
 ![DxM7SlnV4AElL6t](https://user-images.githubusercontent.com/67474853/136702382-55f63582-182b-40b9-b66a-617e7a6c66c1.jpeg)
-![MasterHead](https://miro.medium.com/max/700/1*7bQvSHX_bX7_cbCeL9OYXQ.jpeg)
-
 <h1 align="center">Hi 👋, I'm Sagar Kandpal</h1>
 <h3 align="center">I’m interested in building Machine Learning,Deep Learning models for Real World use cases.</h3>
 
