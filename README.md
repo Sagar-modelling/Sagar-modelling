@@ -80,11 +80,11 @@ Architecting intelligent systems by combining **Traditional Machine Learning**, 
 ## 📈 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sagar-modelling&show_icons=true&locale=en&layout=compact&theme=dark" alt="sagar-modelling" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=sagar-modelling&show_icons=true&locale=en&layout=compact&theme=dark" alt="sagar-modelling" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=sagar-modelling&show_icons=true&theme=dark&locale=en" alt="sagar-modelling" />
+  <img src="https://github-stats-extended.vercel.app/api?username=sagar-modelling&show_icons=true&theme=dark&locale=en" alt="sagar-modelling" />
 </p>
 
 <p align="left">
