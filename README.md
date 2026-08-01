@@ -11,7 +11,7 @@
   <p>
     <a href="https://linkedin.com/in/sagar-kandpal-4942491a9" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
     <a href="https://flowcv.com/resume/pmcee3s84i" target="_blank"><img src="https://img.shields.io/badge/Resume-FF4B4B?style=for-the-badge&logo=read-it-later&logoColor=white" alt="Resume"/></a>
-    <a href="mailto:sagarkandpal05@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+    <a href="mailto:sagaraidata1992@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
     <a href="https://kaggle.com/sagarkandpal"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle"/></a>
     <a href="https://github.com/sagar-modelling"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   </p>
