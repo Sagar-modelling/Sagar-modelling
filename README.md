@@ -1,6 +1,6 @@
 ![DxM7SlnV4AElL6t](https://user-images.githubusercontent.com/67474853/136702382-55f63582-182b-40b9-b66a-617e7a6c66c1.jpeg)
 <h1 align="center">Hi 👋, I'm Sagar Kandpal</h1>
-<h3 align="center">AI Engineer | Machine Learning, Deep Learning & Agentic GenAI Architect</h3>
+<h3 align="center">Senior Data Scientist & Generative AI Engineer</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=sagar-modelling&label=Profile%20Views&color=0e75b6&style=plastic" alt="sagar-modelling" />
