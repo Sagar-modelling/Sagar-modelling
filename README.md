@@ -10,6 +10,8 @@
   
   <p>
     <a href="https://linkedin.com/in/sagar-kandpal-4942491a9" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <a href="https://scholar.google.com/citations?user=mBKJRVUAAAAJ&hl=en" target="_blank"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar"/></a>
+    <a href="https://www.researchgate.net/profile/Sagar-Kandpal" target="_blank"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate"/></a>
     <a href="https://flowcv.com/resume/pmcee3s84i" target="_blank"><img src="https://img.shields.io/badge/Resume-FF4B4B?style=for-the-badge&logo=read-it-later&logoColor=white" alt="Resume"/></a>
     <a href="mailto:sagaraidata1992@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
     <a href="https://kaggle.com/sagarkandpal"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle"/></a>
@@ -68,6 +70,15 @@
   <li><b>Compliance:</b> Model Risk assessment, vulnerability mitigation, and AI safety protocols.</li>
 </ul>
 </details>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png">
+
+## 📚 Publications & Research
+
+> Explore my latest academic contributions, papers, and ongoing research below:
+
+* 📄 **[Latest Research Paper on ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S0032591025011982)**
+* *More research updates coming soon...*
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png">
 
