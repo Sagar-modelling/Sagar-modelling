@@ -16,6 +16,7 @@
     <a href="mailto:sagaraidata1992@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
     <a href="https://kaggle.com/sagarkandpal"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle"/></a>
     <a href="https://github.com/sagar-modelling"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+    <a href="https://sagar-modelling.github.io" target="_blank"><img src="https://img.shields.io/badge/Portfolio_Website-000000?style=for-the-badge&logo=google-chrome&logoColor=00d2ff" alt="Portfolio Website"/></a>
   </p>
   
   <img src="https://komarev.com/ghpvc/?username=sagar-modelling&label=Profile%20Views&color=0e75b6&style=flat-square" alt="sagar-modelling" />
