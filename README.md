@@ -87,7 +87,7 @@
 <!-- Animated Moving Glowing Line Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 💻 Technical Arsenal & Motion Skill Matrix
+## 💻 Technical Arsenal & Core Stack
 
 <div align="center">
   <!-- Dynamic Animated Tech Stack Icons -->
