@@ -32,44 +32,43 @@
 
 ## 🔬 Core Competencies
 
-<details open>
-<summary><b>🤖 Generative & Agentic AI</b></summary>
-<br>
-<ul>
-  <li><b>LLM Applications:</b> Fine-tuning, Prompt Engineering, and advanced Retrieval-Augmented Generation (RAG).</li>
-  <li><b>Agentic AI Architectures:</b> Task planning, multi-agent orchestration, and autonomous workflows.</li>
-  <li><b>Cloud-Native GenAI:</b> Azure Databricks Marketplace LLMs with a focus on cost optimization, performance monitoring, and inference efficiency.</li>
-</ul>
-</details>
-
-<details open>
-<summary><b>🧠 Machine Learning, NLP & Time Series</b></summary>
-<br>
-<ul>
-  <li><b>Advanced Deep Learning & CV:</b> CNNs, RNNs, LSTMs, Object Detection, and OpenCV.</li>
-  <li><b>Time Series Forecasting:</b> ARIMA, Prophet, Price Modeling, and Anomaly Detection.</li>
-  <li><b>NLP & Speech:</b> Transformers, NER, Sentiment Analysis, and Audio APIs (Whisper, ElevenLabs).</li>
-</ul>
-</details>
-
-<details>
-<summary><b>🏗️ Full-Stack ML System Design</b></summary>
-<br>
-<ul>
-  <li><b>End-to-End MLOps:</b> Continuous Integration & Deployment (CI/CD) pipelines.</li>
-  <li><b>Model Lifecycle:</b> Experiment tracking and registry with MLflow.</li>
-  <li><b>Backend & Serving:</b> High-performance model serving using FastAPI.</li>
-</ul>
-</details>
-
-<details>
-<summary><b>🛡️ Security in ML Systems</b></summary>
-<br>
-<ul>
-  <li><b>Governance:</b> Robust Data Governance and strict Access Control.</li>
-  <li><b>Compliance:</b> Model Risk assessment, vulnerability mitigation, and AI safety protocols.</li>
-</ul>
-</details>
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤖 Generative & Agentic AI</h3>
+      <ul>
+        <li><b>LLM Applications:</b> Fine-tuning, Prompt Engineering, and advanced Retrieval-Augmented Generation (RAG).</li>
+        <li><b>Agentic AI Architectures:</b> Task planning, multi-agent orchestration, and autonomous workflows.</li>
+        <li><b>Cloud-Native GenAI:</b> Azure Databricks Marketplace LLMs with a focus on cost optimization, performance monitoring, and inference efficiency.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧠 Machine Learning, NLP & Time Series</h3>
+      <ul>
+        <li><b>Advanced Deep Learning & CV:</b> CNNs, RNNs, LSTMs, Object Detection, and OpenCV.</li>
+        <li><b>Time Series Forecasting:</b> ARIMA, Prophet, Price Modeling, and Anomaly Detection.</li>
+        <li><b>NLP & Speech:</b> Transformers, NER, Sentiment Analysis, and Audio APIs (Whisper, ElevenLabs).</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏗️ Full-Stack ML System Design</h3>
+      <ul>
+        <li><b>End-to-End MLOps:</b> Continuous Integration & Deployment (CI/CD) pipelines.</li>
+        <li><b>Model Lifecycle:</b> Experiment tracking and registry with MLflow.</li>
+        <li><b>Backend & Serving:</b> High-performance model serving using FastAPI.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛡️ Security in ML Systems</h3>
+      <ul>
+        <li><b>Governance:</b> Robust Data Governance and strict Access Control.</li>
+        <li><b>Compliance:</b> Model Risk assessment, vulnerability mitigation, and AI safety protocols.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png">
 
