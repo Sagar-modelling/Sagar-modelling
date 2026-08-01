@@ -144,7 +144,7 @@
 <!-- Animated Moving Glowing Line Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 📈 Platform Activity & Motion Metrics
+## 📈 GitHub Platform Activity & Analytics
 
 <div align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=sagar-modelling&show_icons=true&theme=radical&hide_border=true" alt="Stats" />
