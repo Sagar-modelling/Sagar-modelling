@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/67474853/136702382-55f63582-182b-40b9-b66a-617e7a6c66c1.jpeg" width="100%" style="border-radius: 12px; max-height: 250px; object-fit: cover; margin-bottom: 20px;" />
+  <!-- Dynamic Capsule Banner with Motion -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1b,50:38bdf8,100:818cf8&height=200&section=header&text=Sagar%20Kandpal&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35" width="100%" />
   
-  <h1>Hi, I'm Sagar Kandpal 🚀</h1>
-  <h3>Senior Data Scientist & Generative AI Engineer</h3>
+  <h3><img src="https://raw.githubusercontent.com/MartinLaxe/MartinLaxe/main/assets/HandWave.gif" width="30px" /> Senior Data Scientist & Generative AI Engineer</h3>
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=20&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=800&lines=End-to-End+AI%2FML+System+Design;Agentic+AI+%26+LLM+Orchestration;Cloud-Native+GenAI+on+Azure+Databricks;Mathematical+Modelling+%26+Optimization;Full-Stack+MLOps+%26+Security" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=End-to-End+AI%2FML+System+Design;Agentic+AI+%26+LLM+Orchestration;Cloud-Native+GenAI+on+Azure+Databricks;Mathematical+Modelling+%26+Optimization;Full-Stack+MLOps+%26+Security" alt="Typing SVG" />
   
-  <br>
+  <br><br>
   
   <p>
     <a href="https://linkedin.com/in/sagar-kandpal-4942491a9" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -19,17 +19,20 @@
     <a href="https://sagar-modelling.github.io" target="_blank"><img src="https://img.shields.io/badge/Portfolio_Website-000000?style=for-the-badge&logo=google-chrome&logoColor=00d2ff" alt="Portfolio Website"/></a>
   </p>
   
-  <img src="https://komarev.com/ghpvc/?username=sagar-modelling&label=Profile%20Views&color=0e75b6&style=flat-square" alt="sagar-modelling" />
+  <img src="https://komarev.com/ghpvc/?username=sagar-modelling&label=Profile%20Views&color=38bdf8&style=flat-square" alt="sagar-modelling" />
 </div>
 
 <br>
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png">
+
+<!-- Animated Moving Glowing Line Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## ⚡ Executive Profile
 
 > **Data Scientist** with 4+ years of experience delivering end-to-end ML and Generative AI solutions across BFSI and manufacturing sectors. Proficient in building scalable RAG pipelines, deploying LLMs, and driving MLOps/LLMOps practices using Azure Databricks. Adept at transforming unstructured data into actionable insights and building intelligent systems that address complex business challenges through data-driven decision-making.
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png">
+<!-- Animated Moving Glowing Line Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🔬 Core Competencies
 
@@ -71,45 +74,89 @@
   </tr>
 </table>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png">
+<!-- Animated Moving Glowing Line Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 📚 Publications & Research
 
 > Explore my latest academic contributions, papers, and ongoing research below:
 
-* 📄 **[Latest Research Paper on ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S0032591025011982)**
+* 📄 **[Latest Research Paper on ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S0032591025011982)** (2025)
 * *More research updates coming soon...*
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png">
+<!-- Animated Moving Glowing Line Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 💻 Technical Arsenal
+## 💻 Technical Arsenal & Motion Skill Matrix
 
 <div align="center">
-  
-| ☁️ Cloud & Big Data | 🤖 GenAI & Speech | 🧠 Core AI & Modeling | 📊 Data & Web APIs |
-| :---: | :---: | :---: | :---: |
-| <img src="https://img.shields.io/badge/Azure-000000?style=for-the-badge&logo=microsoft-azure&logoColor=0089D6" /> | <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=LangChain&logoColor=white" /> | <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=3776AB" /> | <img src="https://img.shields.io/badge/Oracle_SQL-000000?style=for-the-badge&logo=oracle&logoColor=F80000" /> |
-| <img src="https://img.shields.io/badge/Vertex_AI-000000?style=for-the-badge&logo=google-cloud&logoColor=4285F4" /> | <img src="https://img.shields.io/badge/CrewAI-000000?style=for-the-badge&logo=python&logoColor=FF5733" /> | <img src="https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=PyTorch&logoColor=EE4C2C" /> | <img src="https://img.shields.io/badge/Vector_DBs-000000?style=for-the-badge&logo=database&logoColor=white" /> |
-| <img src="https://img.shields.io/badge/Databricks-000000?style=for-the-badge&logo=databricks&logoColor=FF3621" /> | <img src="https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=OpenAI&logoColor=white" /> | <img src="https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=TensorFlow&logoColor=FF6F00" /> | <img src="https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=009688" /> |
-| <img src="https://img.shields.io/badge/PySpark-000000?style=for-the-badge&logo=apachespark&logoColor=E25A1C" /> | <img src="https://img.shields.io/badge/HuggingFace-000000?style=for-the-badge&logo=HuggingFace&logoColor=FDEE21" /> | <img src="https://img.shields.io/badge/Prophet-000000?style=for-the-badge&logo=python&logoColor=white" /> | <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" /> |
-| <img src="https://img.shields.io/badge/MLflow-000000?style=for-the-badge&logo=mlflow&logoColor=0194E2" /> | <img src="https://img.shields.io/badge/Whisper-000000?style=for-the-badge&logo=openai&logoColor=10a37f" /> | <img src="https://img.shields.io/badge/SpaCy-000000?style=for-the-badge&logo=spacy&logoColor=09A3D5" /> | <img src="https://img.shields.io/badge/Streamlit-000000?style=for-the-badge&logo=Streamlit&logoColor=FF4B4B" /> |
-| <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=2496ED" /> | <img src="https://img.shields.io/badge/ElevenLabs-000000?style=for-the-badge&logo=audioboom&logoColor=white" /> | <img src="https://img.shields.io/badge/OpenCV-000000?style=for-the-badge&logo=opencv&logoColor=5C3EE8" /> | <img src="https://img.shields.io/badge/Power_BI-000000?style=for-the-badge&logo=powerbi&logoColor=F2C811" /> |
-
+  <!-- Dynamic Animated Tech Stack Icons -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,docker,azure,gcp,postgres,fastapi,git,vscode,powershell,linux&theme=dark" />
+  </a>
 </div>
 
 <br>
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png">
 
-## 📈 Platform Activity
+<table align="center" width="100%">
+  <tr>
+    <td align="center"><b>Cloud & Big Data</b></td>
+    <td align="center"><b>GenAI & Speech</b></td>
+    <td align="center"><b>Core AI & Modeling</b></td>
+    <td align="center"><b>Data & Web APIs</b></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Azure-000000?style=for-the-badge&logo=microsoft-azure&logoColor=0089D6" /><br>
+      <img src="https://img.shields.io/badge/Vertex_AI-000000?style=for-the-badge&logo=google-cloud&logoColor=4285F4" /><br>
+      <img src="https://img.shields.io/badge/Databricks-000000?style=for-the-badge&logo=databricks&logoColor=FF3621" /><br>
+      <img src="https://img.shields.io/badge/PySpark-000000?style=for-the-badge&logo=apachespark&logoColor=E25A1C" /><br>
+      <img src="https://img.shields.io/badge/MLflow-000000?style=for-the-badge&logo=mlflow&logoColor=0194E2" /><br>
+      <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=2496ED" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=LangChain&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/CrewAI-000000?style=for-the-badge&logo=python&logoColor=FF5733" /><br>
+      <img src="https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=OpenAI&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/HuggingFace-000000?style=for-the-badge&logo=HuggingFace&logoColor=FDEE21" /><br>
+      <img src="https://img.shields.io/badge/Whisper-000000?style=for-the-badge&logo=openai&logoColor=10a37f" /><br>
+      <img src="https://img.shields.io/badge/ElevenLabs-000000?style=for-the-badge&logo=audioboom&logoColor=white" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=3776AB" /><br>
+      <img src="https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=PyTorch&logoColor=EE4C2C" /><br>
+      <img src="https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=TensorFlow&logoColor=FF6F00" /><br>
+      <img src="https://img.shields.io/badge/Prophet-000000?style=for-the-badge&logo=python&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/SpaCy-000000?style=for-the-badge&logo=spacy&logoColor=09A3D5" /><br>
+      <img src="https://img.shields.io/badge/OpenCV-000000?style=for-the-badge&logo=opencv&logoColor=5C3EE8" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Oracle_SQL-000000?style=for-the-badge&logo=oracle&logoColor=F80000" /><br>
+      <img src="https://img.shields.io/badge/Vector_DBs-000000?style=for-the-badge&logo=database&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=009688" /><br>
+      <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Streamlit-000000?style=for-the-badge&logo=Streamlit&logoColor=FF4B4B" /><br>
+      <img src="https://img.shields.io/badge/Power_BI-000000?style=for-the-badge&logo=powerbi&logoColor=F2C811" />
+    </td>
+  </tr>
+</table>
+
+<!-- Animated Moving Glowing Line Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 📈 Platform Activity & Motion Metrics
 
 <div align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=sagar-modelling&show_icons=true&theme=radical&hide_border=true" alt="Stats" />
   <img src="https://github-stats-extended.vercel.app/api/top-langs?username=sagar-modelling&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
-  <br>
+  <br><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sagar-modelling&theme=radical&hide_border=true" alt="Streak" />
 </div>
 
 <br>
+<!-- Capsule Render Footer Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1b,50:38bdf8,100:818cf8&height=100&section=footer" width="100%" />
+
 <p align="center">
   <i>Architecting intelligent systems where data meets predictive logic and autonomous action.</i>
 </p>
