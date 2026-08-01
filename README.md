@@ -25,9 +25,7 @@
 
 ## ⚡ About Me
 
-I specialize in designing and deploying **scalable, secure, and cost-effective AI/ML systems** with complete end-to-end ownership. My expertise covers the entire lifecycle—from initial model development and research, to building robust MLOps pipelines, orchestrating on the cloud, and delivering real-time inference optimization. 
-
-Currently, I am intensely focused on **Generative AI applications**, specifically integrating and serving Large Language Models (LLMs) from platforms like **Azure Databricks** and the **Azure Marketplace** into highly resilient, production-ready enterprise environments.
+**Data Scientist** with 4+ years of experience delivering end-to-end ML and Generative AI solutions across BFSI and manufacturing sectors. Proficient in building scalable RAG pipelines, deploying LLMs, and driving MLOps/LLMOps practices using Azure Databricks. Adept at transforming unstructured data into actionable insights and building intelligent systems that address complex business challenges through data-driven decision-making.
 
 ---
 
@@ -44,11 +42,11 @@ Currently, I am intensely focused on **Generative AI applications**, specificall
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3>🧠 Predictive Logic & Deep Learning</h3>
+      <h3>🧠 Machine Learning, NLP & Time Series</h3>
       <ul>
-        <li><b>Mathematical Modelling:</b> Advanced optimization techniques, digital twins, and simulation.</li>
-        <li><b>Predictive Modeling:</b> High-accuracy behavioral and forecasting logic.</li>
-        <li><b>Advanced Deep Learning:</b> Deep Reinforcement Learning and Geometric Deep Learning.</li>
+        <li><b>Advanced Deep Learning & CV:</b> CNNs, RNNs, LSTMs, Object Detection, and OpenCV.</li>
+        <li><b>Time Series Forecasting:</b> ARIMA, Prophet, Price Modeling, and Anomaly Detection.</li>
+        <li><b>NLP & Speech:</b> Transformers, NER, Sentiment Analysis, and Audio APIs (Whisper, ElevenLabs).</li>
       </ul>
     </td>
   </tr>
@@ -77,31 +75,43 @@ Currently, I am intensely focused on **Generative AI applications**, specificall
 
 <table align="center" width="100%">
   <tr>
-    <td align="center"><b>Cloud & MLOps</b></td>
-    <td align="center"><b>Generative AI & Agents</b></td>
-    <td align="center"><b>Core AI / Machine Learning</b></td>
+    <td align="center"><b>Cloud & Big Data</b></td>
+    <td align="center"><b>GenAI & Speech</b></td>
+    <td align="center"><b>Core AI & Modeling</b></td>
+    <td align="center"><b>Data & Web APIs</b></td>
   </tr>
   <tr>
     <td align="center">
       <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure"/><br>
+      <img src="https://img.shields.io/badge/Vertex_AI-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Vertex AI"/><br>
       <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks"/><br>
+      <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="PySpark"/><br>
       <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow"/><br>
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/><br>
-      <img src="https://img.shields.io/badge/CI%2FCD-4D4D4E?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD"/>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/LangGraph-1C1C1C?style=for-the-badge&logo=python&logoColor=white" alt="LangGraph"/><br>
-      <img src="https://img.shields.io/badge/CrewAI-FF5733?style=for-the-badge&logo=python&logoColor=white" alt="CrewAI"/><br>
       <img src="https://img.shields.io/badge/LangChain-FFFFFF?style=for-the-badge&logo=LangChain&logoColor=black" alt="LangChain"/><br>
+      <img src="https://img.shields.io/badge/CrewAI-FF5733?style=for-the-badge&logo=python&logoColor=white" alt="CrewAI"/><br>
       <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=OpenAI&logoColor=white" alt="OpenAI"/><br>
-      <img src="https://img.shields.io/badge/HuggingFace-FDEE21?style=for-the-badge&logo=HuggingFace&logoColor=black" alt="HuggingFace"/>
+      <img src="https://img.shields.io/badge/HuggingFace-FDEE21?style=for-the-badge&logo=HuggingFace&logoColor=black" alt="HuggingFace"/><br>
+      <img src="https://img.shields.io/badge/Whisper-10a37f?style=for-the-badge&logo=openai&logoColor=white" alt="Whisper"/><br>
+      <img src="https://img.shields.io/badge/ElevenLabs-000000?style=for-the-badge&logo=audioboom&logoColor=white" alt="ElevenLabs"/>
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/><br>
       <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch"/><br>
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow"/><br>
+      <img src="https://img.shields.io/badge/Prophet-232F3E?style=for-the-badge&logo=python&logoColor=white" alt="Prophet"/><br>
+      <img src="https://img.shields.io/badge/SpaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white" alt="SpaCy"/><br>
+      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Oracle%20SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle SQL"/><br>
+      <img src="https://img.shields.io/badge/Vector_DBs-000000?style=for-the-badge&logo=database&logoColor=white" alt="Vector DBs"/><br>
       <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/><br>
-      <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/><br>
-      <img src="https://img.shields.io/badge/Vector_DBs-000000?style=for-the-badge&logo=database&logoColor=white" alt="Vector DBs"/>
+      <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/><br>
+      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" alt="Streamlit"/><br>
+      <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
     </td>
   </tr>
 </table>
